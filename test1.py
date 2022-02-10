@@ -5,4 +5,7 @@ a = 2 + 3
 b = a
 print(b)
 
+b = b + b + b
+
+print(b)
 
